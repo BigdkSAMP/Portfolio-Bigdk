@@ -38,8 +38,8 @@ _(TextDraw de Some/Sede/Sono)_
 ---
 <img src="TextDraws/fomesedesono.png" alt="alt text" width="256" height="256px">
 
-_(Celular Funcional)_
+_(Celular Funcional )_
 ---
 <img src="TextDraws/cell.png" alt="alt text" width="256" height="512">
 <img src="TextDraws/cellc4.png" alt="alt text" width="256" height="512">
-<img src="TextDraws/CellC4Logado.png" alt="alt text" width="256" height="512">ng" alt="alt text" width="256" height="512">ng" alt="alt text" width="256" height="512">
+<img src="TextDraws/CellC4Logado.png" alt="alt text" width="256" height="512">
