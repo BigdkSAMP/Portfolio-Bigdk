@@ -29,7 +29,7 @@ _(Garagem do GTA V Online)_
 
 _(Apartamento do GTA V Online)_
 ---
-<img src="Mapas/Apartamento-GTAV/1.jpg" alt="alt text" width="512px" height="256px">
+<img src="Mapas/Screenshot_2024-06-27-20-24-37-866_ru.unisamp_mobile.game.jpg" alt="alt text" width="512px" height="256px">
 <img src="Mapas/Apartamento-GTAV/2.jpg" alt="alt text" width="512px" height="256px">
 
 
