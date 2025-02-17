@@ -1,6 +1,6 @@
 # Portfólio (Bigdk)
 
-Olá, sou o Bigdk, sou scripter, mapper e criador de textdraws para SA-MP. Aqui eu estou postando meu portfólio para demonstrar meus trabalhos feitos, também aqui nesse GitHub, compartilho alguns conteúdos gratuitos.
+Olá, eu sou o Bigdk, especialista em scripting, mapping e criação de textdraws para SA-MP. Neste espaço, estou compartilhando meu portfólio para exibir os trabalhos que realizei, todos disponíveis gratuitamente. Aqui, você poderá conferir exemplos do meu trabalho e, se precisar de algo personalizado, estou à disposição para ajudar. Sinta-se à vontade para explorar e entrar em contato caso tenha alguma dúvida ou projeto em mente!
 
 ### Sistemas completos
 
